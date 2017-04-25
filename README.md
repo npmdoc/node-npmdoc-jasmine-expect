@@ -1,4 +1,7 @@
-# api documentation for  [jasmine-expect (v3.7.0)](https://github.com/JamieMason/Jasmine-Matchers)  [![npm package](https://img.shields.io/npm/v/npmdoc-jasmine-expect.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jasmine-expect) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jasmine-expect.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jasmine-expect)
+# npmdoc-jasmine-expect
+
+#### basic api documentation for  [jasmine-expect (v3.7.0)](https://github.com/JamieMason/Jasmine-Matchers)  [![npm package](https://img.shields.io/npm/v/npmdoc-jasmine-expect.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jasmine-expect) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jasmine-expect.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jasmine-expect)
+
 #### Additional matchers for the Jasmine BDD JavaScript testing library
 
 [![NPM](https://nodei.co/npm/jasmine-expect.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jasmine-expect)
@@ -205,7 +208,8 @@
             "unicorn/filename-case": 0
         },
         "space": 2
-    }
+    },
+    "bin": {}
 }
 ```
 
